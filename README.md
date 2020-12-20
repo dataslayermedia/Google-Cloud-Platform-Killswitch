@@ -41,7 +41,7 @@ https://console.cloud.google.com/cloudpubsub/topic/detail/budget-notifications?p
 }
 ```
 
-![Publish Test Message](https://raw.githubusercontent.com/tmoody/Google-Cloud-Platform-Killswitch/main/images/pub-sub-test-messaging.png)
+![Publish Test Message](https://raw.githubusercontent.com/tmoody/Google-Cloud-Platform-Killswitch/main/images/pub-sub-test-message.png)
 
 
 ## Validate that Billing is Disabled
