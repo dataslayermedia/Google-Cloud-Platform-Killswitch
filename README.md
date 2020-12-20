@@ -41,11 +41,11 @@ https://console.cloud.google.com/cloudpubsub/topic/detail/budget-notifications?p
 }
 ```
 
-![Publish Test Message](./pub-sub-test-messaging.png)
+![Publish Test Message](images/pub-sub-test-messaging.png)
 
 
 ## Validate that Billing is Disabled
 https://console.cloud.google.com/billing/linkedaccount?project=macgyver-services-production
 
-![Disabled Billing](./billing-disaled.png)
+![Disabled Billing](images/billing-disaled.png)
 
