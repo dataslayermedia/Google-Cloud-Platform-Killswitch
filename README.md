@@ -41,11 +41,11 @@ https://console.cloud.google.com/cloudpubsub/topic/detail/budget-notifications?p
 }
 ```
 
-![Publish Test Message](images/pub-sub-test-messaging.png)
+![Publish Test Message](https://raw.githubusercontent.com/tmoody/Google-Cloud-Platform-Killswitch/main/images/pub-sub-test-messaging.png)
 
 
 ## Validate that Billing is Disabled
 https://console.cloud.google.com/billing/linkedaccount?project=macgyver-services-production
 
-![Disabled Billing](images/billing-disaled.png)
+![Disabled Billing](https://raw.githubusercontent.com/tmoody/Google-Cloud-Platform-Killswitch/main/images/billing-disabled.png)
 
