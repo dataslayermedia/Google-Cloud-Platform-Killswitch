@@ -1,7 +1,8 @@
 {
-    "name": "cloud-functions-billing",
-    "version": "0.0.1",
-    "dependencies": {
-      "slack": "^11.0.1"
-    }
-  }
+ "name": "cloud-functions-billing",
+ "version": "0.0.1",
+ "dependencies": {
+   "google-auth-library": "^2.0.0",
+   "googleapis": "^52.0.0"
+ }
+}
