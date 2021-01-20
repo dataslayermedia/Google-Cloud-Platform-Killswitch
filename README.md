@@ -1,5 +1,12 @@
 # Google-Cloud-Platform-Killswitch
  Add a limit on billing costs for your GCP account.
+ 
+ 
+ 
+ ## Video Tutorial
+ [![](http://img.youtube.com/vi/KiTg8RPpGG4/0.jpg)](http://www.youtube.com/watch?v=KiTg8RPpGG4 "")
+ 
+ 
 
 ## Details from Google
 https://cloud.google.com/billing/docs/how-to/notify
