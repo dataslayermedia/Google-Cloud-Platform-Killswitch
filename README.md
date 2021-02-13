@@ -12,11 +12,11 @@ Navigate to Billing
 Navigate to Budgets & alerts
 CREATE BUDGET
 
-## Listen to Notifications
+## Listen to Notifications Via Cloud Function
 Create a cloud function with trigger type Pub/Sub
 Use the "index.js" and "package.json" scripts.
 Swap out your project ID in the index.js file.
-
+This API will actually disable the billing API (turn off billing, engage kill switch) 
 
 
 ## Enable Cloud Billing API
@@ -43,7 +43,6 @@ https://console.cloud.google.com/cloudpubsub/topic/detail/budget-notifications?p
 ```
 
 ![Publish Test Message](https://raw.githubusercontent.com/tmoody/Google-Cloud-Platform-Killswitch/main/images/pub-sub-test-message.png)
-
 
 ## Validate that Billing is Disabled
 https://console.cloud.google.com/billing/linkedaccount?project=macgyver-services-production
