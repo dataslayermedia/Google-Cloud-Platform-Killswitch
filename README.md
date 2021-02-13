@@ -19,10 +19,11 @@ Navigate to Billing
 Navigate to Budgets & alerts
 CREATE BUDGET
 
-## Listen to Notifications
+## Listen to Notifications via Cloud Function
 Create a cloud function with trigger type Pub/Sub
 Use the "index.js" and "package.json" scripts.
 Swap out your project ID in the index.js file.
+This script disable billing on the project which will render the services no longer working and stop any incremental costs from accruing.
 
 
 
